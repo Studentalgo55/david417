@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+    color: royalblue;
+}
+
+p {
+    font-size: 20px;
+    background-color: lightblue;
+}
